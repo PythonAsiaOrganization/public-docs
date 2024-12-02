@@ -16,7 +16,7 @@ This setup encourages companies to join at any time during the year while mainta
 
 ## Gold Sponsorship Plan
 
-**Annual Fee**: 2,000 Euro  
+**Annual Fee**: 1,980 Euro  
 
 **Benefits**:  
 * Logo placement on the main page of the organization’s website.  
@@ -33,7 +33,7 @@ This setup encourages companies to join at any time during the year while mainta
 
 ## Silver Sponsorship Plan
 
-**Annual Fee**: 500 Euro  
+**Annual Fee**: 600 Euro  
 
 **Benefits**:  
 * Logo placement on the sponsors' page of the organization’s website.  
