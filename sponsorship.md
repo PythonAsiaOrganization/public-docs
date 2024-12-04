@@ -1,4 +1,4 @@
-# Python Asia Organization Sponsorship plan (draft)
+# Python Asia Organization Sponsorship plan
 
 (2024-12-01 Manabu TERADA)
 
@@ -77,7 +77,7 @@ These examples can be tailored to the unique value propositions of your associat
 * Our organization has a CoC. Please adhere to it strictly.
 * Violations may result in penalties, including expulsion from the organization.
 
-URL(TODO)
+[CODE_OF_CONDUCT.md](https://github.com/PythonAsiaOrganization/public-docs/blob/main/CODE_OF_CONDUCT.md)
 
 
 # Sponsorship kit
