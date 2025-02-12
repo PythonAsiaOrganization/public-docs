@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 2025-02-11
 
 The Python Asia Organization (PAO) is committed to protecting the privacy and personal data of its members, website visitors, and stakeholders. This Privacy Policy outlines how we collect, use, and safeguard personal information in compliance with the General Data Protection Regulation (GDPR), Estonian data protection laws, and privacy regulations across East and Southeast Asia.
 
@@ -128,4 +128,4 @@ We may update this Privacy Policy to reflect changes in legal requirements, oper
 For questions, concerns, or to exercise your rights, please contact us:
 
 **Email:** [privacy@pythonasia.org](mailto:privacy@pythonasia.org)  
-**Mailing Address:** [Insert Address]
+**Mailing Address:** 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor.
