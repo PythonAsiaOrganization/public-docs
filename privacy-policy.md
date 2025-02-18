@@ -6,7 +6,7 @@ The Python Asia Organization (PAO) is committed to protecting the privacy and pe
 
 ## 1. Who We Are
 
-The Python Asia Organization (PAO) is a non-profit entity registered in Estonia, dedicated to promoting the Python programming language in East and Southeast Asia. Our registered address is [Insert Address]. For privacy-related inquiries, please contact us at [privacy@pythonasia.org](mailto:privacy@pythonasia.org).
+The Python Asia Organization (PAO) is a non-profit entity registered in Estonia, dedicated to promoting the Python programming language in East and Southeast Asia. Our business address is 110-0015 Tokyo-to, Taito-ku, Higashi-Ueno 1-11-1, GOSHO Kasugadori Building, 9th Floor. For privacy-related inquiries, please contact us at privacy@pythonasia.org.
 
 ## 2. What Data We Collect
 
