@@ -45,9 +45,9 @@ Community subdomains are available to:
 
 1. **Submit Request**: Email your request to `subdomains@pythonasia.org` with:
    - Proposed subdomain name (e.g., `yourcommunity.pythonasia.org`)
-   - Community name and brief description
+   - Community name and a brief description
    - Geographic location or focus area
-   - Primary contact person and email address
+   - Names and email addresses of two people as the primary contact
    - **Domain name** (not URL) that you control for CNAME configuration
    - Link to your Code of Conduct
    - Link to ticket pricing (if hosting an event)
