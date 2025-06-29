@@ -103,11 +103,11 @@ Community subdomains are available to:
 Violations of Acceptable Use may result in suspension or permanent removal of the subdomain.
 
 ### Content Responsibility
-
-- Communities are solely responsible for all content on their subdomain.
-- All content must comply with PAO’s [Code of Conduct](https://github.com/PythonAsiaOrganization/public-docs/blob/main/CODE_OF_CONDUCT.md).
-- Communities must include appropriate disclaimers stating their relationship to PAO.
-- PAO reserves the right to request content changes or removal.
+*   **You're in Charge of Your Content:** Communities are fully responsible for everything on their subdomains.
+*   **Follow Our Code of Conduct:** All content must follow PAO’s [Code of Conduct](https://github.com/PythonAsiaOrganization/public-docs/blob/main/CODE_OF_CONDUCT.md).
+*   **Be Transparent About Your Relationship:** Communities must include clear disclaimers on their websites explaining their relationship with PAO.
+*   **PAO Can Request Changes:** PAO reserves the right to ask for changes or removal of content.
+*   **Inactive Sites May Be Removed:** If a community's website hasn't been updated in a while, or we can't reach the main contacts, we may remove the CNAME registration without notice.
 
 ### Code of Conduct Requirement
 
