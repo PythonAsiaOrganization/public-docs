@@ -43,7 +43,7 @@ Community subdomains are available to:
 
 ### Application Process
 
-1. **Submit Request**: Email your request to `subdomains@pythonasia.org` with:
+1. **Submit Request**: Email your request to `wg-infra@pythonasia.org` with:
    - Proposed subdomain name (e.g., `yourcommunity.pythonasia.org`)
    - Community name and a brief description
    - Geographic location or focus area
