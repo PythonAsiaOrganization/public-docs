@@ -112,7 +112,8 @@ This Code of Conduct applies to the following people in official Python Asia Org
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python Asia Organization board immediately. They can be reached by emailing board@pythonasia.org
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Python Asia Organization Code Of Conduct Working Group immediately.
+They can be reached by emailing [wg-coc@pythonasia.org](mailto:wg-coc@pythonasia.org)
 
 ## License
 
